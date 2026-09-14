@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fabianogmsantos.github.io/sitemap-index.xml

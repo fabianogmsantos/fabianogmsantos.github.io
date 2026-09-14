@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="FS">
+  <!-- Três barras de altura desigual: uma votação nominal, que é o material
+       primário da obra dele. Verde do plenário da Câmara. -->
+  <rect width="32" height="32" rx="4" fill="#2F5D50"/>
+  <rect x="7"  y="17" width="4" height="9"  fill="#FCFBF9"/>
+  <rect x="14" y="9"  width="4" height="17" fill="#FCFBF9"/>
+  <rect x="21" y="13" width="4" height="13" fill="#FCFBF9" opacity="0.62"/>
+</svg>
